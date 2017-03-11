@@ -2,17 +2,18 @@
 layout: post
 title:  "My purpose of blogging"
 date:   2016-11-27 16:41:12 +0800
-categories: personal reflection
+categories: Personal
 ---
 
 As I start on my 1 year journey in the bay area, I would like to start blogging as a means of self-expression and self-reflection. After reading through other people's blogs, I believe that blogging can benefit me in 3 main ways:
 
-1. Sharing ideas and passions
-I am also blogging to be able to engage in different subject matters with different people, and to engage on issues outside of my comfort zone
+Sharing ideas and passions - 
+As a technology enthusiast, blogging is a way of sharing the different "toys" that I build and play with, given the time and energy I have during my 1 year in the bay area. I also would like to be able to engage in different subject matters that interest me, including culture, self improvement, and whatever other random thoughts that cross my mind, and blogging is a means of solidifying these fleeting thoughts into more mature ideas.
 
-Build writing skills
+Build writing skills - 
+"Engineers can't write" is a stereotype that I feel is extremely true, given the amount of time students who take Engineering actually attempt to think critically and express themselves through language. Like any skill, this requires constant practice and engagement, and this is 1 platform that I may do so.
 
-Reflect and think deeply
-Apart from being able to chronicle my life experiences and thoughts on it. But more than that
+Reflect, and think deeply - 
+Through engaging with the pace of daily life, I have often forgot to slow down and reflect upon my motivations behind starting certain tasks, and neglected to think how engaging in certain activities affect me as a person. Bloggng is a good way to put some distance between an individual and the things that he engages in, and reflect upon said implications.
 
-An experimental (and good) habit, I hope I would be able to keep this habit up even as i go on my journey...
+An experimental (and hopefully good) habit, I aim to keep this up for as long as it's effective in achieving the goals I set out to.
