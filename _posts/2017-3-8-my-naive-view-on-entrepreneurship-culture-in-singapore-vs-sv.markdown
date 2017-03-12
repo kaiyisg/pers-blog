@@ -5,6 +5,8 @@ date:   2017-03-08 22:44:00 +0800
 categories: entrepreneurship
 ---
 
+Watching the video: ____
+
 Having been in the valley for 2 months, I have seen a few points that differentiate singapore and the valley's innovation culture:
 
 1. Focus on engineering (design thinking, etc) of gvt

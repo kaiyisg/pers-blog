@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "My purpose of blogging"
+date:   2017-01-05 00:00:00 +0800
+categories: Personal
+---
+
+Increase my self awareness, and ability to plan for the future
+Read, summarize, and apply ETL concepts like designing my life to myself
+Set a daily schedule and adhere to it from monday to friday
+Set up my blog page and blog on it to reflect about my time here, at least once a week - blog on interesting topics to internalize them
+Read and summarize online resources like https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit 
+Plan for whatever events I want to go for for the year (researching online)
+
+Increase my financial awareness and management strategy
+Do research, and understand all the terms and metrics used by people to make investment decisions
+Manage my own Singapore and US portfolio, and be able to track where all my money goes and for what rationale in a spreadsheet
+
+IoT-ize my room to learn about building for IoT and be proficient in it
+Set up a facial detection software outside my door
+Come up with my own cheap IoT node switch based off the ES8266 wifi chip and implement it for other stuff
+
+Increase Software development skills
+Plan out a roadmap for improving my software dev skills in time for applications in July / interviews in December
+Learn koa and be able to set up an application using koa at work
+Attend at least 5 hackathons and be able to work with new people and learn new things at each hackathon
+
+Attend events and soak in bay area
