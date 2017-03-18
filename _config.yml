@@ -9,11 +9,11 @@ name: Kai Yi Lee
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: kaiyi.lee.79
   flickr:
   github: kaiyisg
   instagram:
-  linkedin: in/kai-yi-lee-89988785
+  linkedin: kai-yi-lee-89988785
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -31,7 +31,7 @@ google_analytics: UA-93492049-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://blog.kaiyilee.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

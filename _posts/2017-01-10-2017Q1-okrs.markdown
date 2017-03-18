@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "My purpose of blogging"
+title:  "2017Q1 Okrs"
 date:   2017-01-05 00:00:00 +0800
 categories: Personal
 ---
+
+OKR (Objective - Key Result) is a goal setting framework which Google uses to ensure that the goals that they set are in
 
 Increase my self awareness, and ability to plan for the future
 Read, summarize, and apply ETL concepts like designing my life to myself

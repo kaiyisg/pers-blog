@@ -7,18 +7,11 @@ categories: Personal
 
 Suffice to say that I had slightly more on my plate than I bargained for in my Y3S2, and getting through the semester was not easy for me. You know how when people are put into positions of tremendous stress, and start reflecting about why they are even in that position in the first place? Well, that was me during a large part of the previous semester...
 
-Which brings me to 
+Which brings me to thinking about how one could avoid being caught up in such craziness in the future, and what are some good ways to avoid it
 
-
-can never capture the past, too caught up in the present, so just focus on capturing the present and improving the future
-First day of balance lifestyle - swim and visit bao
-Bao's homestay mentor makes a good point- diff stage of life want diff thing, realise it in private sector, once the children are gone cannot get it back
-Article on medium - overcoming imposter syndrome
-Overcome imposter syndrome
-Have more empathy dun think people's problems are worse than mine
-Balance lifestyle
-
-I was trying to achieve too much this semester, I guess.
+1. Goal setting
+2. Empathy for other people's problems.
+3. Finding and enforcing a balance - reduce being crushed by the panic monster
 
 
 <!-- {% highlight ruby %}
