@@ -3,32 +3,38 @@ layout: default
 ---
 
 <div class="posts">
-  <!-- {% for post in site.posts %}
-    <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %} -->
-
-  <h1>Technology & Entrepreneurship</h1>
+  <h1>Tech & Entre</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% for category in post.categories %}
+        {% if category == 'Tech' %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </ul>
 
   <h1>World</h1>
-    <ul class="posts">
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% for category in post.categories %}
+        {% if category == 'World' %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   </ul>
 
   <h1>Personal</h1>
-    <ul class="posts">
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% for category in post.categories %}
+        {% if category == 'Personal' %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
   </ul>
 
 </div>

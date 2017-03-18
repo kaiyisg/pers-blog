@@ -2,7 +2,7 @@
 layout: post
 title:  "My Naive view on entreprenurship culture in Singapore VS SV"
 date:   2017-03-08 22:44:00 +0800
-categories: entrepreneurship
+categories: "Tech"
 ---
 
 Watching the video: ____

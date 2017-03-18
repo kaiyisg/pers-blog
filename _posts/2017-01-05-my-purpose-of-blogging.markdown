@@ -2,7 +2,7 @@
 layout: post
 title:  "My purpose of blogging"
 date:   2017-01-05 00:00:00 +0800
-categories: Personal
+categories: "Personal"
 ---
 
 As I start on my 1 year journey in the bay area, I would like to start blogging as a means of self-expression and self-reflection. After reading through other people's blogs, I believe that blogging can benefit me in 3 main ways:

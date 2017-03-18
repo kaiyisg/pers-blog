@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I also have a [website](www.kaiyilee.com)
+I also have a [website](http://www.kaiyilee.com)

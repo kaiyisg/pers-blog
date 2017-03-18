@@ -2,7 +2,7 @@
 layout: post
 title:  "My Burnout Sem"
 date:   2016-11-27 16:41:12 +0800
-categories: Personal
+categories: "Personal"
 ---
 
 Suffice to say that I had slightly more on my plate than I bargained for in my Y3S2, and getting through the semester was not easy for me. You know how when people are put into positions of tremendous stress, and start reflecting about why they are even in that position in the first place? Well, that was me during a large part of the previous semester...
