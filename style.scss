@@ -15,12 +15,16 @@
 
 html {
   font-size: 100%;
+  position: relative;
+  min-height: 100%;
 }
 
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  margin: 0 0 100px; /* bottom = footer height */
+  padding: 25px;
 }
 
 .container {
@@ -151,7 +155,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  border-bottom: 1px solid #ddd;
+  // border-bottom: 1px solid #ddd;
 }
 
 .masthead {
@@ -251,8 +255,18 @@ nav {
   border-bottom: none;
 }
 
-.posts > ul {
+.posts ul {
   list-style-type: none;
+}
+
+.posts li {
+  list-style-type: none;
+}
+
+.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
 }
 
 .post {
@@ -280,6 +294,12 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  overflow:hidden;
 }
 
 footer {

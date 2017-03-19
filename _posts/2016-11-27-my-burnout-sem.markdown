@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Burnout Sem"
+title:  "My burnout sem"
 date:   2016-11-27 16:41:12 +0800
 categories: "Personal"
 ---

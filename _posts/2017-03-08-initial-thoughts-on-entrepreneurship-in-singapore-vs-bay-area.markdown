@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Naive view on entreprenurship culture in Singapore VS SV"
+title:  "Intial thoughts on entreprenurship in Singapore vs Bay Area"
 date:   2017-03-08 22:44:00 +0800
 categories: "Tech"
 ---
