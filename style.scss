@@ -83,6 +83,14 @@ a {
 
 ul, ol {
   margin: 15px 0;
+  margin-left: 20px;
+}
+
+#related {
+  ul, ol {
+    margin: 15px 0;
+    margin-left: 0px;
+  }
 }
 
 ul {
@@ -257,10 +265,12 @@ nav {
 
 .posts ul {
   list-style-type: none;
+  margin-left: 0px;
 }
 
 .posts li {
   list-style-type: none;
+  margin-left: 0px;
 }
 
 .posts span {
