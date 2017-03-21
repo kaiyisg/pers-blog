@@ -1,4 +1,4 @@
-# My website
+# My blog
 
 ## Local Development
 
