@@ -23,7 +23,7 @@ To do
 - Resistance museum
 - Rijksmuseum (I Amsterdam sign is in front of it)
 - Prostitution museum (pretty interesting) 
-- Anne Frank house (queue is crazy, should wake up early to camp for the tix)
+- Anne Frank house (queue is crazy, should wake up early to camp for the tix, or buy online)
 - Westerkerk tower 
 - Heineken experience (best beer tour experience ever!)
 
@@ -268,6 +268,18 @@ To eat
 
 To do
 - DIY
+
+# **Italy** - *Naples*
+
+To Eat
+- Sfogliatelle Attanasio - Pasticceria (Nice and cheap Sfogliatelle)
+- La Masardona (Nice and cheap fried pizza)
+- Bar Mexico (Coffee!)
+- Any pizza place, naples is the birthplace of pizza!
+
+To do
+- DIY
+
 
 # **Italy** - *Rome*
 *Disclaimer: I spent most of my exchange here, so this might be a bit longer than what you should look out for!*

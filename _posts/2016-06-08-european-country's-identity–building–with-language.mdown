@@ -6,4 +6,4 @@ categories: "World"
 published: false
 ---
 
-Observations: 
+The lines between different countries are easily blured, and 

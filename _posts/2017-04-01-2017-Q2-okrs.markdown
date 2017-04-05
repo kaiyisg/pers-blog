@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "2017 Q2 Okrs"
+date:   2017-04-01 00:00:00 +0800
+categories: "Personal"
+---
+
+## Grading of my 2017 Q1 OKRs:
+
+### *Objective 1: Increase my self awareness and direction, and start planning long term* - 0.32
++ Read, summarize, and apply ETL concepts like designing my life to myself - 0.2
++ Set a daily schedule and adhere to it from monday to friday - 0.2
++ Set up my blog page and blog on it to reflect about my time here, at least once a week - blog on interesting topics to internalize them - 0.7
++ Read and summarize [interesting online resources](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit) - 0.2
++ Plan for events and conferences that I want to go for this year - 0.3
+
+### *Objective 2: Increase my financial awareness and management strategy* - 0.2
++ Do research, and understand all the terms and metrics used by people to make investment decisions - 0.2
++ Manage my own Singapore and US portfolio, and be able to rationalize and track the choices that I make - 0.2
+
+### *Objective 3: IoT-ize my room to learn about building IoT stuff, and be proficient in it* - 0
++ Set up a facial detection software outside my door - 0
++ Come up with my own cheap IoT node switch based off the ES8266 wifi chip and cheap hardware - 0
+
+### *Objective 4: Increase software engineering proficiencies* - 0.47
++ Plan out a roadmap for improving my software engineering proficiencies in time for applications in July / interviews in December - 0.6
++ Learn koa and be able to set up an application using koa at work - 0.3
++ Attend at least 5 hackathons and be able to work with new people and learn new things at each hackathon - 0.6
+
+### *Objective 5: Attend events and soak in bay area* - 0.8
+
+## New OKRs for 2017 Q2
+
+### *Objective 1: Increase my self awareness and direction, and start planning long term*
++ Read, summarize, and apply ETL concepts like designing my life to myself - 0.2
++ Come up with one blog post a week to continuously reflect on the things I am doing here
++ Read and summarize [interesting online resources](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit)
++ Plan for events and conferences that I want to go for this year
+
+### *Objective 2: Increase my financial awareness and management strategy* - 0.2
++ Do research, and understand all the terms and metrics used by people to make investment decisions - 0.2
++ Manage my own Singapore and US portfolio, and be able to rationalize and track the choices that I make - 0.2
