@@ -5,20 +5,21 @@ date:   2017-04-01 16:41:12 +0800
 categories: "World"
 ---
 
-Shit thats nice to eat in the bay area (imo), grouped by location. 1 to 3 dollar signs based on how ex i think it is.
+Food joints that are nice to dine at in the bay area in my opinion, grouped by location for easy referrence. I assign one to three dollar signs based on how expensive i think the place is.
 
 # **Commonly found Franchises**
 - In & Out Burger (try the animal fries too!) ($)
 - Five guys (nicest burger joint so far!) ($$)
 - The habit burger grill (semi-decent burge joint) ($$)
 - Chick fil-A (sauce is good, burger is meh) ($$)
-teaspoon
-Philz
-Peats
+- Ike's (nice but expensive sandwiches) ($$)
+- Teaspoon (untested)
+- Philz (very popular coffee joint here) ($$)
+- Peats (relatively populat coffee joint here) ($$)
 
 # **Sunnyvale**
 - New port restaurant (good chinese food) ($$$) (untested)
-- Ming Tasty (cantonese chinese food, like traditional mui fan) ($$)
+- Ming Tasty (chinese food place) ($$)
 - Saigon seafood habor restaurant (rumored to be best chinese food in town?) ($$$) (untested)
 - Pho Lovers (relatively decent pho with big portions) ($$)
 - Red hot wok (not tested)
@@ -26,20 +27,19 @@ Peats
 - Myzen (10 bucks ramen) (untested)
 
 # **Cupertino**
-main street - rich place, food / xian yu xian (taro, not yam)
-Mongolian Hot Pot (Wenqi)
-Taiwan porridge kingdom (cyrus) - cheap chinese food
-Ike's - (jeff) nice but ex sandwiches
-Southland Flavor Cafe (Serqi) - taiwanese good food
-Tofu plus korean bbq (Serqi) - cupertino village kbbq
-Ten Ren Tea (serqi) - decent bubble tea in cupertino village
-Santouka (Serqi) - good jap + have kinokuniya there
+- Main street area (rich place, go for the food / xian yu xian)
+- Mongolian Hot Pot (nice chinese steamboat place) ($$)
+- Taiwan porridge kingdom (slightly cheaper chinese food, traditional atmosphere) ($$)
+- Southland Flavor Cafe (taiwanese good food) (untested)
+- Tofu plus korean bbq (cupertino village kbbq, not bad) ($$)
+- Ten Ren Tea (very nice bubble tea in cupertino village) ($)
+- Santouka (shopping center with good jap food + kinokuniya)
 
 # **Santa Clara**
-Poke poke fish bar (easilydo)
-Jang Su Jang (Serqi) - v good korean
-Straits restaurant (Serqi) - sg food
-Mitsuwa + Lion City - Super markets
+- Poke poke fish bar (decent pokebar!) ($$)
+- Jang Su Jang (very nice korean food) ($$)
+- Straits restaurant (Singaporean food) (untested)
+- Mitsuwa + Lion City (Super markets) (untested)
 
 # **San Jose**
 Tomi sushi and seafood buffet (auntie cc) - good sushi and chinese food
