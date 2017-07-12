@@ -7,7 +7,7 @@ categories: "Personal"
 Quick and dirty list of all the books that I want to, and should read.
 
 ## **Finance**
-- The Intelligent Investor 
+- The Intelligent Investor
 
 ## **Software Engineering**
 - CLRS
@@ -17,11 +17,19 @@ Quick and dirty list of all the books that I want to, and should read.
 - The Rootkit Arsenal
 
 ## **Product Management**
-- 
+- The art of SCRUM
+
+## **IT Systems**
+- The Phoenix Project
+- Maverick
 
 ## **UI/UX**
 - Don't make me think
 - 100 things every designer should know
 
 ## **Venture Capital**
-- 
+- The business of venture capital, ramsinghani
+
+## **General Knowledge and History**
+- We have no idea
+- The better angels of our nature
