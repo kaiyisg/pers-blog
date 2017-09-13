@@ -71,10 +71,26 @@ To do
 - Le Bain (Nice to walk across at night)
 - Washington square park (Good for chess too!)
 
-
-
 # **US** - *DC*
 
 To eat
+- Insomnia Cookies (really good cookies)
+- Daikaya (Need to put name down early as there is always a long queue)
+- &pizza (Nice cheap made to order pizza)
+- Astro Doughnuts and Fried Chicken (the doughnuts legit)
+- Busboys and poets (ex, but good service and chill atmosphere)
+- Poke papa (good place for poke, can feed 2 people w 1 serving)
+- Georgetown cupcake (nice cupcakes, ex and long queue)
+- Ben's chili bowl (yum)
 
 To do
+- National Mall (could be explored better with a free walking tour)
+- International spy museum (you can get the mission exp if you like it)
+- Natural Portrait gallery (one of the museums that open till later!)
+- Trump international hotel washinton (you may go the side entrance from 9-5 weekdays to see the bell tower)
+- Newseum
+- National Gallery of art
+- Natural history museum
+- Georgetown (nice chill place and vibes to explore)
+- Adam's Morgan - best place for nightlife, can checkout divebars on the strip
+- U street - another night life place (can try black cat)
