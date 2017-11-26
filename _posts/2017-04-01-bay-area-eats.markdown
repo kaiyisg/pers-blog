@@ -67,18 +67,62 @@ Food joints that are nice to dine at in the bay area in my opinion, grouped by l
 
 # **SF City**
 ## Chinatown
-- Yee's restaurant (untested)
 - Good mok kok bakery (untested)
-## Pier 39
+- Capital restaurant (untested)
+- AA Bakery and Cafe (I love their baked goods!)
+- Hang ah dim sum and tea house (dim sum nice)
+- Plentea (untested) (try this boba place)
+- Muracci (serves alright-ish katsu curry)
+## North Beach
+- Sotto Mare (omg the seafood, but ex)
 - Codmother fish and chips (nice fish and chips at decent price!) ($$)
 - Clam chowder (should try here)
+## Russian Hill
+- The first swensen's ice cream store
+## Downtown
+- Mensho Tokyo (super long queue i heard, but worth)
+- Kin Khao (super good thai good, michelin star and cheap)
+- Tacorea (untested) (korean mexican cheap)
+- Yank Sing (cheap dim sum place)
+- The bird (untested) (cheap macspicy)
+## Mission Bay / South Bay
+- HRD (cheap korean taco)
+- Spark social
+## Fillmore area (Pacific Heights, etc)
+- Marufuku Ramen
+- b. patisserie (super nice pastry place)
+- The Mill (breakfast place) (untested)
+- 4505 burgers and bbq (untested)
+- Souvla (greek yoghurt) (untested)
+- Tommy's Joynt (open till late, ok-ish pork belly)
+- Hai Ky Mi Gia (omg take on singaporean mee kia!)
+- Brenda's French soul food (untested) (heard it is super good soul food!)
+## Around Mission District
+- Mitchell's Ice Cream (untested)
+- La Taqueria (untested)
+- Taquería El Farolito (untested)
+- Humphry Slocombe
+- Sun Fat Seafood Co (shackle them urself!)
+- Smitten Ice Cream (other outlets are available!)
+- Bi-Rite Creamery
+- Kitchen story
+- Tartine
+## Inner Richmond
+- Arsicault Bakery (untested)
+- [No 1 SF BBQ San Francisco](https://www.yelp.com/biz/no-1-sf-bbq-san-francisco) (Super good chinese bbq food!)
+- Trad'r Sam (Bar) (untested)
+## Inner sunset
+- San Francisco's Hometown Creamery (untested)
+- San tung (chicken wings) (untested)
+## Too ex list
+- State bird provisions
+- Liholiho Yacht Club
+- Mister Jiu's
+- The slanted door
+- Trestle
 ## Misc
-- Capital restaurant (untested)
-- Muracci (try tonkatsu don) (untested)
-- The bird (try chicken burger) (untested)
-- Big chef's tom (try pork belly burger) (untested)
-- Tommy's joint (try meat tender)
-- HRD 
+- Super duper burgers (every where!)
+
 
 # **Redwood city**
 - I dumpling (nice dumpling house) ($$)
